@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GitHubSearchRepositories</string>
+    <string name="searchRepositories">search repositories</string>
+    <string name="tvRepositories">display repositories </string>
+    <string name="showHits">%1$s hits</string>
+</resources>
